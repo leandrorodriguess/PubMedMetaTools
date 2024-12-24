@@ -1,0 +1,44 @@
+# API and email configuration
+api_key: "09921aadccbafb8e5913ae1c99e2fafbe00a"                     # API key for accessing the service. Replace with your own key.
+api_email: "leandrorodrigues.s@gmail.com"                           # Email associated with the API for identification purposes.
+
+# General configuration
+config:
+  search_type: 1                                                    # 1 search for DOI and 2 search for term
+  time_sleep: "0.1"                                                 # Time between queries in PubMed in seconds
+  file_save_periodically: 10                                        # Save results periodically files csv incremental
+  save_xml: true                                                    # Salvar xml (true/false)
+  search: 0.1          
+  search_article_one: true                                          #procura artigo pelo doi ou pelo titulo           
+
+# Directory settings
+directories:
+  output: "./data/processed"                                        # Main directory for storing output files.
+  xml: "./data/processed/xml"                                       # Write XML Download.
+  input: "./data/input"                                             # Main directory for storing input files.
+  logs: "./logs"                                                    # Directory for storing log files.
+  type_files: "./data/processed/files_type"                         # Arquivos convertidos.
+
+# File settings
+files:
+  file_data_error: "./metadata/NotProcessed.csv"                               # file not encountered during execution.
+  file_data_input: "References_MJFF_15122024.csv"                   # file template input to process
+  file_parsing_pubmed: "./metadata/PubMed_Metadata.csv"             # file extract metada from Pubmed to pubmedfile
+  file_parsing_bibliometrix: "./metadata/Bibliometrix_Metadata.csv" # file extract metada from Pubmed to bibliometrix
+  # files for softwares
+  file_data_pubmed: "./files_type/PubMed_format.txt"                # file process format to Pubmed
+  file_bibliometrix: "./files_type/Bibliometrix_format.xlsx"        # file mapping to bibliometrix
+
+  file_vsviewer: "VosViewer.ris"                                    # file mapping to VosViewer
+  file_bibtex: "bibtex.bib"                                         # file references
+  file_web_of_science: "web_of_science.txt"                         # file structed web_of_science
+
+
+# Logging configuration
+logging:
+  log_file: "./logs/execution.log"                                  # Path to the log file where process execution details will be saved.
+  level: "INFO"                                                     # Logging level (e.g., DEBUG, INFO, WARNING, ERROR, CRITICAL).
+  format: "%(asctime)s - %(levelname)s - %(message)s"               # Format for log messages.
+  date_format: "%Y-%m-%d %H:%M:%S"                                  # Format for timestamps in log messages.
+
+                        

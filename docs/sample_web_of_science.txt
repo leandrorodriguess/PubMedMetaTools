@@ -1,0 +1,252 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lochte, BC
+   Beletsky, A
+   Samuel, NK
+   Grant, I
+AF Lochte, Bryson C.
+   Beletsky, Alexander
+   Samuel, Nebiyou K.
+   Grant, Igor
+TI The Use of Cannabis for Headache Disorders
+SO CANNABIS AND CANNABINOID RESEARCH
+LA English
+DT Review
+DE cannabis; headache; therapy
+ID MEDICAL MARIJUANA; RECEPTOR ACTIVATION; PERIAQUEDUCTAL GREY; CLUSTER
+   HEADACHE; CHRONIC MIGRAINE; DOUBLE-BLIND; IN-VIVO; ENDOCANNABINOIDS;
+   ANANDAMIDE; SEROTONIN
+AB Headache disorders are common, debilitating, and, in many cases, inadequately managed by existing treatments. Although clinical trials of cannabis for neuropathic pain have shown promising results, there has been limited research on its use, specifically for headache disorders. This review considers historical prescription practices, summarizes the existing reports on the use of cannabis for headache, and examines the preclinical literature exploring the role of exogenous and endogenous cannabinoids to alter headache pathophysiology. Currently, there is not enough evidence from well-designed clinical trials to support the use of cannabis for headache, but there are sufficient anecdotal and preliminary results, as well as plausible neurobiological mechanisms, to warrant properly designed clinical trials. Such trials are needed to determine short- and long-term efficacy for specific headache types, compatibility with existing treatments, optimal administration practices, as well as potential risks.
+C1 [Lochte, Bryson C.; Beletsky, Alexander; Samuel, Nebiyou K.; Grant, Igor] Univ Calif San Diego, Ctr Med Cannabis Res, Dept Psychiat, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+C3 University of California System; University of California San Diego
+RP Grant, I (corresponding author), Univ Calif San Diego, Ctr Med Cannabis Res, Dept Psychiat, 9500 Gilman Dr, La Jolla, CA 92093 USA.
+EM igrant@ucsd.edu
+FU Center for Medicinal Cannabis Research (CMCR) at the University of
+   California, San Diego
+FX This work was supported by the Center for Medicinal Cannabis Research
+   (CMCR) at the University of California, San Diego.
+CR Akerman S, 2004, BRIT J PHARMACOL, V142, P1354, DOI 10.1038/sj.bjp.0705896
+   Akerman S, 2004, J PHARMACOL EXP THER, V309, P56, DOI 10.1124/jpet.103.059808
+   Akerman S, 2013, J NEUROSCI, V33, P14869, DOI 10.1523/JNEUROSCI.0943-13.2013
+   Akerman S, 2007, J PHARMACOL EXP THER, V320, P64, DOI 10.1124/jpet.106.106971
+   Andreae MH, 2015, J PAIN, V16, P1221, DOI 10.1016/j.jpain.2015.07.009
+   [Anonymous], 1874, PRACTICAL THERAPEUTI
+   [Anonymous], 1640, Theatrum Botanicum: The Theater of Plants or an Herball of Large Extent
+   [Anonymous], 1886, HDB THERAPEUTICS
+   [Anonymous], 1991, CHRONIC MIGRAINE HEA
+   [Anonymous], 1891, BR MED J
+   [Anonymous], 1868, Arch Med
+   [Anonymous], 1887, Therapeutic Gazette
+   [Anonymous], 1872, PRACTITIONER
+   Antonaci F, 2011, J HEADACHE PAIN, V12, P115, DOI 10.1007/s10194-010-0282-4
+   Baron EP, 2015, HEADACHE, V55, P885, DOI 10.1111/head.12570
+   Baum D., 1996, SMOKE MIRRORS WAR DR
+   Bille B, 1996, CEPHALALGIA, V16, P78, DOI 10.1177/033310249601600205
+   Bisogno T, 2001, BRIT J PHARMACOL, V134, P845, DOI 10.1038/sj.bjp.0704327
+   Boger DL, 1998, P NATL ACAD SCI USA, V95, P4102, DOI 10.1073/pnas.95.8.4102
+   Bonn-Miller MO, 2014, AM J DRUG ALCOHOL AB, V40, P23, DOI 10.3109/00952990.2013.821477
+   Borgdorff P, 2012, HEADACHE, V52, P1298, DOI 10.1111/j.1526-4610.2012.02162.x
+   Consroe P, 1997, EUR NEUROL, V38, P44, DOI 10.1159/000112901
+   Culpeper N., 1984, CULPEPERS COMPLETE H, p[xii, 430]
+   Cupini LM, 2008, NEUROBIOL DIS, V30, P186, DOI 10.1016/j.nbd.2008.01.003
+   Cupini LM, 2006, CEPHALALGIA, V26, P277, DOI 10.1111/j.1468-2982.2005.01031.x
+   De Novellis V, 2005, NEUROSCIENCE, V134, P269, DOI 10.1016/j.neuroscience.2005.03.014
+   Donnet A, 2007, J NEUROL NEUROSUR PS, V78, P1354, DOI 10.1136/jnnp.2006.112037
+   Donovan M., 1845, DUBLIN J MED SCI, V26, P368
+   Dymock W., 1885, VEGETABLE MAT MED W
+   ELMALLAKH RS, 1989, SOUTHERN MED J, V82, P805, DOI 10.1097/00007611-198906000-00041
+   ELMALLAKH RS, 1987, HEADACHE, V27, P442
+   Evans RW, 2004, HEADACHE, V44, P726, DOI 10.1111/j.1526-4610.2004.04133C.x
+   FOGAN L, 1985, ARCH NEUROL-CHICAGO, V42, P362, DOI 10.1001/archneur.1985.04060040072015
+   Friedman DI, 2002, NEUROLOGY, V58, P1551, DOI 10.1212/WNL.58.10.1551
+   Gieringer D., 2002, CANNABIS CANNABINOID, P143
+   GOADSBY PJ, 1990, ANN NEUROL, V28, P183, DOI 10.1002/ana.410280213
+   Gowers WR., 1888, A Manual of Diseases of the Nervous System
+   Grant Igor, 2012, Open Neurol J, V6, P18, DOI 10.2174/1874205X01206010018
+   Greco R, 2010, CEPHALALGIA, V30, P296, DOI 10.1111/j.1468-2982.2009.01924.x
+   Greco R, 2011, J HEADACHE PAIN, V12, P177, DOI 10.1007/s10194-010-0274-4
+   Greco R, 2010, EXP NEUROL, V224, P85, DOI 10.1016/j.expneurol.2010.03.029
+   Grinspoon L., 1997, Marihuana: The Forbidden Medicine
+   Gunther RobertT., 1968, The Greek Herbal of Dioscorides
+   Haj-Dahmane S, 2009, J PHARMACOL EXP THER, V331, P186, DOI 10.1124/jpet.109.153858
+   Hampson AJ, 1998, J NEUROCHEM, V70, P671
+   Hansen JM, 2015, PATHOPHYSIOLOGY HEAD, P217
+   Harrison TR, 2013, HARRISONS PRINCIPLES, V53
+   Hill KP, 2015, JAMA-J AM MED ASSOC, V313, P2474, DOI 10.1001/jama.2015.6199
+   Hu XH, 1999, ARCH INTERN MED, V159, P813, DOI 10.1001/archinte.159.8.813
+   Jensen R, 2015, CASE BASED DIAGNOSIS, P147
+   Juhasz G, 2009, NEUROSCI LETT, V461, P116, DOI 10.1016/j.neulet.2009.06.021
+   Kalant H, 2004, PROG NEURO-PSYCHOPH, V28, P849, DOI 10.1016/j.pnpbp.2004.05.027
+   Karschner EL, 2011, CLIN PHARMACOL THER, V89, P400, DOI 10.1038/clpt.2010.318
+   Kazemi H, 2012, IRAN J BASIC MED SCI, V15, P926
+   Kelly S, 2001, J NEUROPHYSIOL, V86, P3061, DOI 10.1152/jn.2001.86.6.3061
+   Knight YE, 2002, J NEUROSCI, V22, DOI 10.1523/JNEUROSCI.22-05-j0002.2002
+   Knight YE, 2001, NEUROSCIENCE, V106, P793, DOI 10.1016/S0306-4522(01)00303-7
+   Knoller N, 2002, CRIT CARE MED, V30, P548, DOI 10.1097/00003246-200203000-00009
+   Koppel BS, 2014, NEUROLOGY, V82, P1556, DOI 10.1212/WNL.0000000000000363
+   Leone M, 2017, EXPERT REV NEUROTHER, V17, P165, DOI 10.1080/14737175.2016.1216796
+   Leroux E, 2013, CEPHALALGIA, V33, P208, DOI 10.1177/0333102412468669
+   Levin KH, 2010, DRUG ALCOHOL DEPEN, V111, P120, DOI 10.1016/j.drugalcdep.2010.04.010
+   Lewis B, 1971, ENCY ISLAM, VIII
+   Lipton RB, 2003, NEUROLOGY, V60, P1064, DOI 10.1212/01.WNL.0000052687.03646.74
+   Lyngberg AC, 2005, NEUROLOGY, V65, P580, DOI 10.1212/01.wnl.0000172918.74999.8a
+   Mackenzie S., 1887, BMJ, V1, P97
+   Maione S, 2006, J PHARMACOL EXP THER, V316, P969, DOI 10.1124/jpet.105.093286
+   McGeeney BE, 2013, HEADACHE, V53, P447, DOI 10.1111/head.12025
+   Mikuriya T, 2007, SHAUGHNESSYS J CANNA
+   Mitchell S., 1963, HEADACHE J HEAD FACE, V3, P70, DOI DOI 10.1111/J.1526-4610.1963.HED0302070.X
+   Munksgaard SB, 2015, PATHOPHYSIOLOGY HEAD, P259
+   NOYES R, 1974, COMPR PSYCHIAT, V15, P531, DOI 10.1016/0010-440X(74)90008-X
+   Nozaki C, 2015, EUR NEUROPSYCHOPHARM, V25, P1388, DOI 10.1016/j.euroneuro.2015.04.001
+   Nunberg Helen, 2011, J Drug Policy Anal, V4
+   O'Shaughnessy W.B., 1843, Provincial Medical Journal and Retrospect of the Medical Sciences, V5, P363
+   Olesen J, 2018, CEPHALALGIA, V38, P1, DOI 10.1177/0333102417738202
+   Osborn LA, 2015, J PSYCHOACTIVE DRUGS, V47, P345, DOI 10.1080/02791072.2015.1096433
+   Osler William., 1909, PRINCIPLES PRACTICE, V7th
+   Pini LA, 2012, J HEADACHE PAIN, V13, P677, DOI 10.1007/s10194-012-0490-1
+   Price DD, 2008, ANNU REV PSYCHOL, V59, P565, DOI 10.1146/annurev.psych.59.113006.095941
+   Rains JC, 2005, HEADACHE, V45, pS92, DOI 10.1111/j.1526-4610.2005.4502003.x
+   RASMUSSEN BK, 1991, J CLIN EPIDEMIOL, V44, P1147, DOI 10.1016/0895-4356(91)90147-2
+   Reinarman C, 2011, J PSYCHOACTIVE DRUGS, V43, P128, DOI 10.1080/02791072.2011.587700
+   Rhyne DN, 2016, PHARMACOTHERAPY, V36, P505, DOI 10.1002/phar.1673
+   Robbins MS, 2009, HEADACHE, V49, P914, DOI 10.1111/j.1526-4610.2009.01344.x
+   Rossi C, 2008, EUR J CLIN PHARMACOL, V64, P1, DOI 10.1007/s00228-007-0391-4
+   Russo E., 2001, Journal of Cannabis Therapeutics, V1, P21, DOI 10.1300/J175v01n02_04
+   Russo E, 1998, PAIN, V76, P3, DOI 10.1016/S0304-3959(98)00033-5
+   Russo EB, 2016, CANNABIS CANNABINOID, V1, P154, DOI 10.1089/can.2016.0009
+   Ryan-Ibarra S, 2015, DRUG ALCOHOL REV, V34, P141, DOI 10.1111/dar.12207
+   Sarchielli P, 2007, NEUROPSYCHOPHARMACOL, V32, P1384, DOI 10.1038/sj.npp.1301246
+   Schnelle M, 1999, FORSCH KOMPLEMENTMED, V6, P28, DOI 10.1159/000057154
+   Silberstein SD, 2004, CEPHALALGIA, V24, P2, DOI 10.1111/j.1468-2982.2004.00892.x
+   Stovner LJ, 2007, CEPHALALGIA, V27, P193, DOI 10.1111/j.1468-2982.2007.01288.x
+   Thompson RC., 1924, ASSYRIAN HERBAL
+   Tóth A, 2009, VITAM HORM, V81, P389, DOI 10.1016/S0083-6729(09)81015-7
+   Tramèr MR, 2001, BMJ-BRIT MED J, V323, P16, DOI 10.1136/bmj.323.7303.16
+   VOLFE Z, 1985, INT J CLIN PHARM RES, V5, P243
+   Waldie KE, 2016, HEADACHE PAIN MANAG, V1, P1
+   Williamson EM, 2000, DRUGS, V60, P1303, DOI 10.2165/00003495-200060060-00005
+NR 100
+TC 23
+Z9 28
+U1 18
+U2 171
+PU MARY ANN LIEBERT, INC
+PI NEW ROCHELLE
+PA 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, NY 10801 USA
+SN 2578-5125
+EI 2378-8763
+J9 CANNABIS CANNABINOID
+JI Cannabis Cannabinoid Res.
+PD APR 1
+PY 2017
+VL 2
+IS 1
+BP 61
+EP 71
+DI 10.1089/can.2016.0033
+PG 11
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA VJ3VE
+UT WOS:000587911500001
+PM 28861505
+OA Green Published, Bronze
+DA 2024-11-24
+ER
+
+PT J
+AU Worster, B
+   Ashare, RL
+   Hajjar, E
+   Garber, G
+   Smith, K
+   Kelly, EL
+AF Worster, Brooke
+   Ashare, Rebecca L.
+   Hajjar, Emily
+   Garber, Greg
+   Smith, Kelsey
+   Kelly, Erin L.
+TI Clinician Attitudes, Training, and Beliefs About Cannabis: An
+   Interprofessional Assessment
+SO CANNABIS AND CANNABINOID RESEARCH
+LA English
+DT Article
+DE medical education; medical cannabis; workforce training
+ID MEDICAL CANNABIS; PHYSICIANS; KNOWLEDGE; PROVIDERS
+AB Background: Medical use of cannabis is growing in popularity across the United States, but medical education and clinician comfort discussing cannabis use for medical purposes have not kept pace.Materials and Methods: A total of 344 clinicians in the state of Pennsylvania (response rate 14%) completed a brief online survey about their attitudes, training, and experiences regarding medical cannabis and certifying patients to use medical cannabis.Results: Only 51% of clinicians reported completing any formal training on medical cannabis. Compared with noncertifying clinicians (pharmacists, nurse practitioners, and physician assistants), physicians were significantly more comfortable with patient use of medical cannabis, saw fewer risks, more benefits, and felt better prepared to discuss its use with vulnerable populations. All clinicians noted significant limitations to their understanding of how medical cannabis can affect patients, and many indicated a desire for more research and training to fill in gaps in their knowledge.Conclusions: Insufficient medical curricula on the medical uses of cannabis are available to interprofessional clinicians across their disciplines, and clinicians report significant deficits in their knowledge base about its effects. Additionally, these data suggest an urgent need to expand training opportunities to the full spectrum of clinicians as all are involved in caring for patients who use medical cannabis.
+C1 [Worster, Brooke; Garber, Greg] Thomas Jefferson Univ, Dept Med Oncol, Sidney Kimmel Canc Ctr, Philadelphia, PA USA.
+   [Ashare, Rebecca L.] SUNY Buffalo, Dept Psychol, Philadelphia, PA USA.
+   [Ashare, Rebecca L.] Univ Penn, Dept Psychiat, Perelman Sch Med, Philadelphia, PA USA.
+   [Hajjar, Emily] Thomas Jefferson Univ, Coll Pharm, Philadelphia, PA USA.
+   [Smith, Kelsey; Kelly, Erin L.] Thomas Jefferson Univ, Dept Family & Community Med, Sidney Kimmel Med Sch, Philadelphia, PA USA.
+C3 Jefferson University; University of Pennsylvania; Jefferson University;
+   Jefferson University
+RP Worster, B (corresponding author), Thomas Jefferson Univ, Dept Med Oncol, Sidney Kimmel Canc Ctr, Philadelphia, PA USA.
+EM brooke.worster@jefferson.edu
+RI Ashare, Rebecca/J-6850-2015; Kelly, Erin/AAG-5001-2021
+OI Worster, Brooke/0000-0002-6687-1760; Kelly, Erin/0000-0003-4629-9661;
+   Smith, Kelsey R./0000-0002-8737-5483
+FU Ethos Cannabis
+FX This study was supported by a grant from Ethos Cannabis.
+CR Abrams DI, 2016, CURR ONCOL, V23, pS8, DOI 10.3747/co.23.3099
+   Balneaves LG, 2018, CANNABIS CANNABINOID, V3, P66, DOI 10.1089/can.2018.0002
+   Bobitt J, 2019, DRUG AGING, V36, P655, DOI 10.1007/s40266-019-00665-w
+   Braun IM, 2018, J CLIN ONCOL, V36, P1957, DOI 10.1200/JCO.2017.76.1221
+   Brooks E, 2017, ADDICT BEHAV, V72, P1, DOI 10.1016/j.addbeh.2017.03.007
+   Caligiuri FJ, 2018, AM J PHARM EDUC, V82, P424, DOI 10.5688/ajpe6296
+   Carliner H, 2017, PREV MED, V104, P13, DOI 10.1016/j.ypmed.2017.07.008
+   Carlini BH, 2017, AM J HOSP PALLIAT ME, V34, P85, DOI 10.1177/1049909115604669
+   Charuvastra A, 2005, J ADDICT DIS, V24, P87, DOI 10.1300/J069v24n03_07
+   Cohen J., 1988, STAT POWER ANAL BEHA
+   Cooke AC, 2019, INT J DRUG POLICY, V63, P23, DOI 10.1016/j.drugpo.2018.09.002
+   Corroon J, 2019, BMC FAM PRACT, V20, DOI 10.1186/s12875-019-1059-8
+   Evanoff AB, 2017, DRUG ALCOHOL DEPEN, V180, P151, DOI 10.1016/j.drugalcdep.2017.08.010
+   Friedmann PD, 2001, ARCH INTERN MED, V161, P248, DOI 10.1001/archinte.161.2.248
+   Gardiner KM, 2019, PLOS ONE, V14, DOI 10.1371/journal.pone.0216556
+   Han BH, 2017, ADDICTION, V112, P516, DOI 10.1111/add.13670
+   Kaplan L, 2020, CANNABIS CANNABINOID, V5, P172, DOI 10.1089/can.2019.0051
+   Kelly E, 2021, J SUBST ABUSE TREAT, V131, DOI 10.1016/j.jsat.2021.108547
+   Kondrad E, 2013, J AM BOARD FAM MED, V26, P52, DOI 10.3122/jabfm.2013.01.120089
+   Reece S, 2021, CANNABIS CANNABINOID, V6, P66, DOI 10.1089/can.2019.0013
+   Smithburger PL, 2019, CURR PHARM TEACH LEA, V11, P1, DOI 10.1016/j.cptl.2018.09.022
+   Treister-Goltzman Y, 2019, POPUL HEALTH MANAG, V22, P362, DOI 10.1089/pop.2018.0113
+   Uritsky TJ, 2011, J PALLIAT MED, V14, P1291, DOI 10.1089/jpm.2011.0113
+   von Wrede R, 2019, EPILEPSY BEHAV, V99, DOI 10.1016/j.yebeh.2019.106458
+   Wall MM, 2019, DRUG ALCOHOL DEPEN, V195, P13, DOI 10.1016/j.drugalcdep.2018.11.009
+   Whiting PF, 2015, JAMA-J AM MED ASSOC, V313, P2456, DOI 10.1001/jama.2015.6358
+   Zolotov Y, 2021, NURS EDUC TODAY, V99, DOI 10.1016/j.nedt.2021.104789
+   Zolotov Y, 2018, INT J DRUG POLICY, V57, P4, DOI 10.1016/j.drugpo.2018.03.025
+NR 28
+TC 5
+Z9 5
+U1 6
+U2 57
+PU MARY ANN LIEBERT, INC
+PI NEW ROCHELLE
+PA 140 HUGUENOT STREET, 3RD FL, NEW ROCHELLE, NY 10801 USA
+SN 2578-5125
+EI 2378-8763
+J9 CANNABIS CANNABINOID
+JI Cannabis Cannabinoid Res.
+PD MAY 1
+PY 2023
+VL 8
+IS 3
+BP 547
+EP 556
+DI 10.1089/can.2021.0022
+EA DEC 2021
+PG 10
+WC Pharmacology & Pharmacy
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Pharmacology & Pharmacy
+GA H7AG2
+UT WOS:000738885900001
+PM 34978882
+DA 2024-11-24
+ER
+
+EF
