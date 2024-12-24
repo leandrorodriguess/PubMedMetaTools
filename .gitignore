@@ -129,3 +129,6 @@ data/processed/**
 
 # Exceto os diretórios
 !data/processed/**/
+
+# E exceto o arquivo .gitkeep (para manter a estrutura)
+!data/processed/**/.gitkeep
