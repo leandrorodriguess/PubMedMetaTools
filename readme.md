@@ -104,10 +104,35 @@ Contains the core logic of the project:
 
 ### **Setup**
 
-1. Install dependencies from `requirements.txt`:  
+1. Clone the Repository
+  ```bash
+    pip install -r requirements.txt
+  ```
+
+2. Create a Virtual Environment
+  Windows 
+  ```bash
+    python -m venv venv
+  ```
+  Linux/macOS:
+  ```bash
+    python3 -m venv venv
+  ```
+
+3. Activate the Virtual Environment
+  Windows:
+  ```bash
+    .\venv\Scripts\activate
+  ```
+  Linux/macOS:
+  ```bash
+    source venv/bin/activate
+  ```
+4. Install dependencies from `requirements.txt`:  
    ```bash
    pip install -r requirements.txt
    ```
+
 
 ### Configuration Variables
 
