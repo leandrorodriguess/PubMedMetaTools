@@ -1,5 +1,5 @@
 
-# PubMetaTool: PubMed Metadata Extraction Tool Based on DOI and/or Title for Composing Metadata for Bibliometric Analysis
+# PubMedMetaTool: PubMed Metadata Extraction Tool Based on DOI and/or Title for Composing Metadata for Bibliometric Analysis
 
 **Version**: 1.0  
 **Authors**: Souza, Leandro Rodrigues da Silva et al.  
