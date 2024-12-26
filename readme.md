@@ -102,33 +102,31 @@ Contains the core logic of the project:
 
 ## **How to Use**
 
-### **Setup**
-
-1. Clone the Repository
+### 1. Clone the Repository
   ```bash
-    pip install -r requirements.txt
+    https://github.com/leandrorodriguess/pubmed-bibliometric-parser.git
   ```
 
-2. Create a Virtual Environment
-  Windows 
+### 2. Create a Virtual Environment
+  #### Windows 
   ```bash
     python -m venv venv
   ```
-  Linux/macOS:
+  #### Linux/macOS:
   ```bash
     python3 -m venv venv
   ```
 
-3. Activate the Virtual Environment
-  Windows:
+### 3. Activate the Virtual Environment
+  #### Windows:
   ```bash
     .\venv\Scripts\activate
   ```
-  Linux/macOS:
+  #### Linux/macOS:
   ```bash
     source venv/bin/activate
   ```
-4. Install dependencies from `requirements.txt`:  
+### 4. Install dependencies from `requirements.txt`:  
    ```bash
    pip install -r requirements.txt
    ```
