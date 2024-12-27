@@ -25,8 +25,8 @@ Contains project configuration files, such as `config.yaml`. This file stores im
 
 | Variable                   | Description                                                      | Example/Default Value                                     |
 |----------------------------|------------------------------------------------------------------|-----------------------------------------------------------|
-| **api_key**                | API key used to authenticate requests to the service.            | `09921aadccbafb8e5913ae1c99e2fafbe00a`                    |
-| **api_email**              | Email associated with the API for identification.                | `leandrorodrigues.s@gmail.com`                            |
+| **api_key**                | API key used to authenticate requests to the service.            |                     |
+| **api_email**              | Email associated with the API for identification.                |                            |
 | **config.search_type**     | Type of search to perform. `1` for DOI-based search, `2` for term-based. | `1` (DOI search)                                           |
 | **config.time_sleep**      | Delay (in seconds) between PubMed queries to avoid rate-limits.  | `0.1`                                                     |
 | **config.file_save_periodically** | Frequency (in terms of number of iterations) to save intermediate results. | `10`                                      |
