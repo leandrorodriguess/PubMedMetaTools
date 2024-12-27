@@ -130,7 +130,8 @@ Contains the core logic of the project:
    ```bash
    pip install -r requirements.txt
    ```
-
+### 1. Create user NCBI 
+To create an NCBI account, follow the instructions provided in the [official guide](https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/02/new-api-keys-for-the-e-utilities/).
 
 ### Configuration Variables
 
