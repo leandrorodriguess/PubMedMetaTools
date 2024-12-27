@@ -104,7 +104,7 @@ Contains the core logic of the project:
 
 ### 1. Clone the Repository
   ```bash
-    https://github.com/leandrorodriguess/pubmed-bibliometric-parser.git
+  https://github.com/leandrorodriguess/PubMedMetaTools.git
   ```
 
 ### 2. Create a Virtual Environment
