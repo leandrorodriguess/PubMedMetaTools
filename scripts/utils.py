@@ -170,7 +170,7 @@ def load_csv_to_dataframe(file_path, separator="|"):
 
 from xml.dom.minidom import parseString
 
-def save_xml_data(article_id, xml_data):
+def save_xml_data(article_id, i, xml_data):
     """
     Saves provided XML data to a file named dynamically based on the article ID.
     
@@ -183,7 +183,7 @@ def save_xml_data(article_id, xml_data):
     """
     try:
         PATH_XML = os.path.join(PATH_ROOT, CONFIG["directories"].get("xml", "xml"))
-        path_xml_filename = os.path.join(PATH_XML, f"article_{article_id}.xml")
+        path_xml_filename = os.path.join(PATH_XML, f"{i}_article_{article_id}.xml")
         path_xml_filename = os.path.normpath(path_xml_filename)
         
         decoded_data = xml_data.decode("utf-8")
@@ -194,17 +194,17 @@ def save_xml_data(article_id, xml_data):
 
         #print(formatted_xml)
         if not decoded_data:
-            logging.warning(f"No XML data provided for article ID: {article_id}")
+            logging.warning(f"No XML data provided for article ID: {article_id} {i}")
             return None
 
         with open(path_xml_filename, "w", encoding="utf-8") as file:
             file.write(formatted_xml)
 
-        logging.info(f"XML data successfully saved to file: {article_id}")
+        logging.info(f"XML data successfully saved to file: {article_id} {i}")
         return True
     
     except Exception as e:
-        logging.error(f"An error occurred while saving XML data for article ID {article_id}: {e}", exc_info=True)
+        logging.error(f"An error occurred while saving XML data for article ID {article_id} {i}: {e}", exc_info=True)
         return False
 
 

@@ -135,7 +135,7 @@ def map_to_pubmed_format(df_pubmed, output_file):
                 # Caso 'row' seja uma string e você espere um dicionário:
                 # Processar campos de autores detalhados (AuthorListDTL)
                 author_list_dtl = row.get("AuthorListDTL", None)
-                if author_list_dtl:
+                if author_list_dtl is not None and not pd.isna(author_list_dtl):
                     author_blocks = author_list_dtl.split("FAU:")
                     author_blocks = [f"FAU:{block}" for block in author_blocks if block.strip()]
                     formatted_rows_AUX.clear()

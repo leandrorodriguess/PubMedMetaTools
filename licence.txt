@@ -2,9 +2,9 @@
     Designed to support quantitative research in bibliometrics and scientometrics.
 
     Copyright (C) 2024  Leandro Rodrigues da Silva Souza and Daniel Hilário da Silva 
-    and Caio Tonus Ribeiro and Daiane Alves da Silva and Pedro Henrique Bernardes Caetano Milken and 
-    Slawomir J. Nasuto and Catherine M. Sweeney-Reed and Adriano Alves Pereira and 
-    Adriano de Oliveira Andrade;
+    and Caio Tonus Ribeiro and Daiane Alves da Silva and Slawomir J. Nasuto 
+    and Catherine M. Sweeney-Reed and Adriano de Oliveira Andrade
+    and Adriano Alves Pereira;
     
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
