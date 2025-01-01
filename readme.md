@@ -186,25 +186,23 @@ L. R. da S. Souza, D. H. da Silva, C. T. Ribeiro, P. H. B. C. Milken, S. Nasuto,
 
 If you use this software in your research, please cite it as indicated below. This encourages us to continue sharing and improving our work:<hr />
 
-- Leandro Rodrigues da Silva Souza, Daniel Hilário da Silva, Caio Tonus Ribeiro, Daiane Alves da Silva, Slawomir J. Nasuto, Catherine M. Sweeney-Reed, Adriano de Oliveira Andrade, Adriano Alves Pereira**  
-* *  
-Software Impacts, Elsevier BV, 2024, [pages], ISSN [issn], [volume], https://doi.org/[doi]
+Leandro Rodrigues da Silva Souza, Daniel Hilário da Silva, Caio Tonus Ribeiro, Daiane Alves da Silva, Slawomir J. Nasuto, Catherine M. Sweeney-Reed, Adriano de Oliveira Andrade, and Adriano Alves Pereira, "PubMedMetaTool: Automated Metadata Extraction from PubMed Using Python for Bibliometric Analysis," *Software Impacts*, vol. [volume], pp. [XX–XX],  ISSN [issn], 2025, doi: [XX](https://doi.org/[doi]). Available: XX.
 
 ### BibTeX
 
 ```
-@article{silvaBIB2024,
+@article{SouzaPubMedMetaTool2025,
   author = {Leandro Rodrigues da Silva Souza and Daniel Hilário da Silva and Caio Tonus Ribeiro and Daiane Alves da Silva and Slawomir J. Nasuto and Catherine M. Sweeney-Reed and Adriano de Oliveira Andrade and Adriano Alves Pereira},
-  title = { },
+  title = {PubMedMetaTool: Automated Metadata Extraction from PubMed Using Python for Bibliometric Analysis.},
   journal = {Software Impacts},
   pages = {}, 
-  year = {2024},
+  year = {2025},
   issn = {}, 
   volume = {}, 
   publisher = {Elsevier BV},
   doi = {},
   url = {},
-  keywords = {Exploratory data analysis, }
+  keywords = {PubMed, Bibliographi database, Bibliometric database, Data generator,  Bibliometrix, VoSViewer}
 }
 ```
  
