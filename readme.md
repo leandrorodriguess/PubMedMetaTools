@@ -2,7 +2,7 @@
 # PubMedMetaTool: PubMed Metadata Extraction Tool Based on DOI and/or Title for Composing Metadata for Bibliometric Analysis
 
 **Version**: 1.0  
-**Authors**: Souza, Leandro Rodrigues da Silva et al.  
+**Authors**: Souza, Leandro Rodrigues da Silva et. al.  
 **License**: GPLv2 License  
 
 ---
@@ -174,16 +174,19 @@ This project is licensed under the GNU General Public License version 2 (GPLv2) 
 If you encounter any issues or have questions, please open an issue on GitHub or contact us at leandrorodrigues.s@gmail.com
 
 
+## Publications
+
+Scholarly publications enabled by this software: 
+L. R. da S. Souza, D. H. da Silva, C. T. Ribeiro, D. A. Silva, P. H. B. C. Milken, S. J. Nasuto, C. M. Sweeney-Reed, A. O. Andrade and A. A. Pereira, “A bibliometric study on Parkinson's disease based on the open access data of the Michael J. Fox Foundation”, in: XXIX Brazilian Congress of Biomedical Engineering, Ribeirão Preto, set. 2-6, 2024. Proceedings IFMBE, Ribeirão Preto: CBEB, 2024. ISSN: 1433-9277 (digital); 1680-0737 (printed).
+
+L. R. da S. Souza, D. H. da Silva, C. T. Ribeiro, P. H. B. C. Milken, S. Nasuto, C. M. Sweeney-Reed, A. de O. Andrade e A. A. Pereira, “A bibliometric study on Parkinson's Disease based on the open access data of the Michael J. Fox Foundation [Data set]”, Zenodo, 2024, doi: 10.5281/zenodo.11044198.
+
+
 ## Citation
-
-Published Article:
-SOUSA, Leandro Rodrigues da Silva; SILVA, Daniel Hilario da; RIBEIRO, Caio Tonus; SILVA, Alves Daiane, MILKEN, Pedro Henrique Bernardes Caetano; NASUTO, Slawomir J.; SWEENEY-REED, Catherine M.; ANDRADE, Adriano de Oliveira; PEREIRA, Adriano Alves. A bibliometric study on Parkinson's disease based on the open access data of the Michael J. Fox Foundation. In: XXIX BRAZILIAN CONGRESS OF BIOMEDICAL ENGINEERING, Ribeirão Preto, September 2-6, 2024. Proceedings IFMBE. Ribeirão Preto: SBEB, 2024. ISSN: 1433-9277 (digital); 1680-0737 (printed).
----
-
 
 If you use this software in your research, please cite it as indicated below. This encourages us to continue sharing and improving our work:<hr />
 
-- Leandro Rodrigues da Silva Souza, Daniel Hilário da Silva, Caio Tonus Ribeiro, Daiane Alves da Silva, Slawomir J. Nasuto, Catherine M. Sweeney-Reed, Adriano Alves Pereira, Adriano de Oliveira Andrade**  
+- Leandro Rodrigues da Silva Souza, Daniel Hilário da Silva, Caio Tonus Ribeiro, Daiane Alves da Silva, Slawomir J. Nasuto, Catherine M. Sweeney-Reed, Adriano de Oliveira Andrade, Adriano Alves Pereira**  
 * *  
 Software Impacts, Elsevier BV, 2024, [pages], ISSN [issn], [volume], https://doi.org/[doi]
 
@@ -191,7 +194,7 @@ Software Impacts, Elsevier BV, 2024, [pages], ISSN [issn], [volume], https://doi
 
 ```
 @article{silvaBIB2024,
-  author = {Leandro Rodrigues da Silva Souza and Daniel Hilário da Silva and Caio Tonus Ribeiro and Daiane Alves da Silva and Pedro Henrique Bernardes Caetano Milken, Slawomir J. Nasuto, Catherine M. Sweeney-Reed, Adriano Alves Pereira and Adriano de Oliveira Andrade},
+  author = {Leandro Rodrigues da Silva Souza and Daniel Hilário da Silva and Caio Tonus Ribeiro and Daiane Alves da Silva and Slawomir J. Nasuto and Catherine M. Sweeney-Reed and Adriano de Oliveira Andrade and Adriano Alves Pereira},
   title = { },
   journal = {Software Impacts},
   pages = {}, 
@@ -204,4 +207,4 @@ Software Impacts, Elsevier BV, 2024, [pages], ISSN [issn], [volume], https://doi
   keywords = {Exploratory data analysis, }
 }
 ```
-## 
+ 
