@@ -186,23 +186,23 @@ L. R. da S. Souza, D. H. da Silva, C. T. Ribeiro, P. H. B. C. Milken, S. Nasuto,
 
 If you use this software in your research, please cite it as indicated below. This encourages us to continue sharing and improving our work:<hr />
 
-Leandro Rodrigues da Silva Souza, Daniel Hilário da Silva, Caio Tonus Ribeiro, Daiane Alves da Silva, Slawomir J. Nasuto, Catherine M. Sweeney-Reed, Adriano de Oliveira Andrade, and Adriano Alves Pereira, "PubMedMetaTool: Automated Metadata Extraction from PubMed Using Python for Bibliometric Analysis," *Software Impacts*, vol. [volume], pp. [XX–XX],  ISSN [issn], 2025, doi: [XX](https://doi.org/[doi]). Available: XX.
+SOUZA, Leandro Rodrigues da Silva \textit{et al.} \textit{PubMedMetaTool: Automated metadata extraction from PubMed using Python for bibliometric analysis}. \textit{Software Impacts}, v. 24, p. 100766, 2025. ISSN 2665-9638. DOI: \url{https://doi.org/10.1016/j.simpa.2025.100766}.
 
 ### BibTeX
 
 ```
 @article{SouzaPubMedMetaTool2025,
   author = {Leandro Rodrigues da Silva Souza and Daniel Hilário da Silva and Caio Tonus Ribeiro and Daiane Alves da Silva and Slawomir J. Nasuto and Catherine M. Sweeney-Reed and Adriano de Oliveira Andrade and Adriano Alves Pereira},
-  title = {PubMedMetaTool: Automated Metadata Extraction from PubMed Using Python for Bibliometric Analysis.},
+  title = {PubMedMetaTool: Automated metadata extraction from PubMed using Python for bibliometric analysis},
   journal = {Software Impacts},
-  pages = {}, 
+  volume = {24},
+  pages = {100766},
   year = {2025},
-  issn = {}, 
-  volume = {}, 
+  issn = {2665-9638},
+  doi = {10.1016/j.simpa.2025.100766},
+  url = {https://doi.org/10.1016/j.simpa.2025.100766},
   publisher = {Elsevier BV},
-  doi = {},
-  url = {},
-  keywords = {PubMed, Bibliographi database, Bibliometric database, Data generator,  Bibliometrix, VoSViewer}
+  keywords = {PubMed, Bibliographic database, Bibliometric database, Data generator, Bibliometrix, VoSViewer}
 }
 ```
 
